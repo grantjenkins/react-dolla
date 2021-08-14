@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-dolla/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-dolla/static/js/main.75c8390e.chunk.js",
+    "main.js.map": "/react-dolla/static/js/main.75c8390e.chunk.js.map",
+    "runtime-main.js": "/react-dolla/static/js/runtime-main.0d823a75.js",
+    "runtime-main.js.map": "/react-dolla/static/js/runtime-main.0d823a75.js.map",
+    "static/js/2.87ba549a.chunk.js": "/react-dolla/static/js/2.87ba549a.chunk.js",
+    "static/js/2.87ba549a.chunk.js.map": "/react-dolla/static/js/2.87ba549a.chunk.js.map",
+    "static/js/3.06799769.chunk.js": "/react-dolla/static/js/3.06799769.chunk.js",
+    "static/js/3.06799769.chunk.js.map": "/react-dolla/static/js/3.06799769.chunk.js.map",
+    "index.html": "/react-dolla/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-dolla/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.87ba549a.chunk.js.LICENSE.txt": "/react-dolla/static/js/2.87ba549a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-dolla/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d823a75.js",
+    "static/js/2.87ba549a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.75c8390e.chunk.js"
+  ]
+}
